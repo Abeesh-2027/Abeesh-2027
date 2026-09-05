@@ -3,28 +3,33 @@
 <h3>AI & Full-Stack Developer</h3>
 
 <p>
-I design and develop modern, scalable web applications and AI-powered solutions.
-I work across the entire development lifecycle — from frontend interfaces and
-backend APIs to databases, AI/ML integration, and cloud deployment.
+I build modern, scalable, and production-ready web applications with
+AI-powered features. I work across the complete development lifecycle —
+from frontend and backend development to databases, AI/ML integration,
+and cloud deployment.
 </p>
 
-## 👨‍💻 About Me
-
-I'm an **AI & Full-Stack Developer** focused on building complete, production-ready applications.
-
-I work across the full development lifecycle — from designing responsive user interfaces and developing backend APIs to integrating AI/ML models, managing databases, and deploying applications to the cloud.
-
-<h3>What I Can Build</h3>
+<h2>👨‍💻 About Me</h2>
 
 <p>
-🌐 <strong>Web Development</strong> — Build responsive websites and modern web applications.<br><br>
-⚙️ <strong>Backend Development</strong> — Create APIs, server-side applications, and backend systems.<br><br>
-🤖 <strong>AI & Machine Learning</strong> — Build ML models and integrate AI into applications.<br><br>
-🗄️ <strong>Database Development</strong> — Design and work with SQL and NoSQL databases.<br><br>
-☁️ <strong>Deployment</strong> — Deploy and manage applications using modern cloud platforms.
+I'm an <strong>AI & Full-Stack Developer</strong> focused on turning ideas
+into reliable and user-friendly digital products. I enjoy building
+end-to-end applications that combine modern web technologies with
+AI and Machine Learning.
 </p>
 
-<h2>🛠️ Technologies I Use</h2>
+<h3>🚀 What I Can Build</h3>
+
+<p>
+🌐 <strong>Web Applications</strong> — Responsive and modern websites and web apps.<br><br>
+⚙️ <strong>Backend Systems</strong> — REST APIs and scalable server-side applications.<br><br>
+🤖 <strong>AI & ML Solutions</strong> — Machine Learning models and AI-powered applications.<br><br>
+🗄️ <strong>Database Solutions</strong> — SQL and NoSQL database-driven applications.<br><br>
+🔗 <strong>Full-Stack Applications</strong> — Complete frontend, backend, database, and AI integration.<br><br>
+☁️ <strong>Deployment</strong> — Production deployment and cloud-based application setup.
+</p>
+
+<h2>🛠️ Tech Stack</h2>
 
 <h3>💻 Languages</h3>
 
@@ -89,22 +94,33 @@ I work across the full development lifecycle — from designing responsive user 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42" />
 </p>
 
-<h2>🚀 What You Can Hire Me For</h2>
+<h2>💼 Services</h2>
 
 <p>
-• Business Websites<br>
+• Business Websites & Landing Pages<br>
 • Full-Stack Web Applications<br>
-• REST APIs & Backend Development<br>
+• REST API Development<br>
 • AI & Machine Learning Applications<br>
 • Database-Driven Applications<br>
-• AI Integration into Existing Applications<br>
-• Deployment & Production Setup
+• AI Integration<br>
+• Application Deployment
 </p>
 
-<h2>📫 Connect With Me</h2>
+<h2>📂 Projects</h2>
+
+<p>
+I build practical projects focused on solving real-world problems using
+<strong>AI, Machine Learning, Full-Stack Development, and modern cloud technologies.</strong>
+</p>
+
+<h2>📫 Let's Connect</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/abeesh-p">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+</p>
+
+<p>
+💼 Open to freelance projects, collaborations, and AI & Full-Stack development opportunities.
 </p>
