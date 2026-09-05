@@ -12,9 +12,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" />
-</a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
@@ -34,9 +31,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="42" height="42" />
-</a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="42" height="42" />
@@ -64,9 +58,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="42" height="42" />
-</a>
 
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="42" height="42" />
@@ -102,8 +93,8 @@
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://matplotlib.org/_static/images/logo2.svg" style="display: inline-block;">
-<img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="42" height="42" />
+<a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="display: inline-block;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="42" height="42" />
 </a>
 </p>
 
@@ -146,9 +137,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github-actions" width="42" height="42" />
+<a target="_blank" href="https://cdn.simpleicons.org/render" style="display: inline-block;">
+<img src="https://cdn.simpleicons.org/render" alt="render" width="42" height="42" />
 </a>
+
+
 </p>
 
 
@@ -168,9 +161,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="42" height="42" />
 </a>
 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="42" height="42" />
-</a>
 </p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/abeesh-p" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
