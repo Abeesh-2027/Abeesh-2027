@@ -3,11 +3,12 @@
 <h3>AI & Full-Stack Developer</h3>
 
 <p>
-I build modern, responsive, and scalable web applications from frontend to backend.
-I also develop AI and Machine Learning solutions and integrate them into real-world applications.
+I design and develop modern, scalable web applications and AI-powered solutions.
+I work across the entire development lifecycle — from frontend interfaces and
+backend APIs to databases, AI/ML integration, and cloud deployment.
 </p>
 
-<h2>What I Do</h2>
+<h3>What I Can Build</h3>
 
 <p>
 🌐 <strong>Web Development</strong> — Build responsive websites and modern web applications.<br><br>
