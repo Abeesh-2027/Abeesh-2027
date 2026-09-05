@@ -2,10 +2,10 @@
 
 <h1>👋 Hi, I'm Abeesh</h1>
 
-<h3>🤖 AI & Full-Stack Developer</h3>
+<h3>AI & Full-Stack Developer</h3>
 
 <p>
-I’m an AI & Full-Stack Developer who builds modern, scalable, and production-ready digital solutions. I work across frontend development, backend APIs, databases, AI and Machine Learning, and cloud deployment to create complete applications that solve real-world problems. I enjoy turning ideas into reliable, user-friendly products from concept to production.
+I’m an AI & Full-Stack Developer who builds modern, scalable, and production-ready digital solutions. I work across frontend development, backend APIs, databases, AI and Machine Learning, and cloud deployment to create complete applications that solve real-world problems. I enjoy turning ideas into reliable, user-friendly products from concept to production. I focus on writing clean, maintainable code and building applications that are easy to scale and improve. I’m continuously learning new technologies and exploring better ways to build intelligent, efficient, and impactful digital solutions.
 </p>
 
 <br>
