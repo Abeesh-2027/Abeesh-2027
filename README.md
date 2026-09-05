@@ -68,8 +68,5 @@ I’m an AI & Full-Stack Developer who builds modern, scalable, and production-r
 </a>
 </p>
 
-<p>
-💼 Open to freelance projects, collaborations, and AI & Full-Stack development opportunities.
-</p>
 
 </div>
