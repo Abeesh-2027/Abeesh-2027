@@ -5,11 +5,7 @@
 <h3>🤖 AI & Full-Stack Developer</h3>
 
 <p>
-I build complete web applications from user interfaces to backend systems and databases.<br>
-I develop REST APIs and connect frontend applications with reliable backend services.<br>
-I build and integrate AI & Machine Learning solutions into real-world applications.<br>
-I design database-driven systems using both SQL and NoSQL technologies.<br>
-I deploy and maintain production-ready applications using modern cloud and DevOps tools.
+I’m an AI & Full-Stack Developer who builds modern, scalable, and production-ready digital solutions. I work across frontend development, backend APIs, databases, AI and Machine Learning, and cloud deployment to create complete applications that solve real-world problems. I enjoy turning ideas into reliable, user-friendly products from concept to production.
 </p>
 
 <br>
