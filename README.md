@@ -8,7 +8,7 @@ I work across the entire development lifecycle — from frontend interfaces and
 backend APIs to databases, AI/ML integration, and cloud deployment.
 </p>
 
-<h3>💼 What I Can Build</h3>
+<h3>What I Can Build</h3>
 
 <p>
 🌐 Business Websites & Web Applications<br>
