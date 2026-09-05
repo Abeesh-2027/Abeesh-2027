@@ -1,5 +1,24 @@
 <h1>Hi 👋, I'm Abeesh</h1>
-<p>An AI & Full-Stack Developer building modern web applications</p>
+
+<h3>AI & Full-Stack Developer</h3>
+
+<p>
+I design and develop modern, scalable web applications and AI-powered solutions.
+I work across the entire development lifecycle — from frontend interfaces and
+backend APIs to databases, AI/ML integration, and cloud deployment.
+</p>
+
+<h3>💼 What I Can Build</h3>
+
+<p>
+🌐 Business Websites & Web Applications<br>
+⚙️ REST APIs & Backend Systems<br>
+🤖 AI & Machine Learning Applications<br>
+🗄️ Database-Driven Applications<br>
+🔗 Full-Stack Applications<br>
+☁️ Cloud-Ready & Deployed Solutions
+</p>
+
 <!-- 💻 Programming Languages -->
 <h3>💻 Programming Languages</h3>
 
