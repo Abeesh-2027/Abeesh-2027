@@ -17,6 +17,25 @@ backend APIs to databases, AI/ML integration, and cloud deployment.
 🗄️ <strong>Database Development</strong> — Design and work with SQL and NoSQL databases.<br><br>
 ☁️ <strong>Deployment</strong> — Deploy and manage applications using modern cloud platforms.
 </p>
+<h1>Hi 👋, I'm Abeesh</h1>
+
+<h3>AI & Full-Stack Developer</h3>
+
+<p>
+I design and develop modern, scalable web applications and AI-powered solutions.
+I work across the entire development lifecycle — from frontend interfaces and
+backend APIs to databases, AI/ML integration, and cloud deployment.
+</p>
+
+<h3>What I Can Build</h3>
+
+<p>
+🌐 <strong>Web Development</strong> — Build responsive websites and modern web applications.<br><br>
+⚙️ <strong>Backend Development</strong> — Create APIs, server-side applications, and backend systems.<br><br>
+🤖 <strong>AI & Machine Learning</strong> — Build ML models and integrate AI into applications.<br><br>
+🗄️ <strong>Database Development</strong> — Design and work with SQL and NoSQL databases.<br><br>
+☁️ <strong>Deployment</strong> — Deploy and manage applications using modern cloud platforms.
+</p>
 
 <h2>🛠️ Technologies I Use</h2>
 
