@@ -8,6 +8,12 @@ I work across the entire development lifecycle — from frontend interfaces and
 backend APIs to databases, AI/ML integration, and cloud deployment.
 </p>
 
+## 👨‍💻 About Me
+
+I'm an **AI & Full-Stack Developer** focused on building complete, production-ready applications.
+
+I work across the full development lifecycle — from designing responsive user interfaces and developing backend APIs to integrating AI/ML models, managing databases, and deploying applications to the cloud.
+
 <h3>What I Can Build</h3>
 
 <p>
