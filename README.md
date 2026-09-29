@@ -1,18 +1,10 @@
-<div align="center">
-
 <h1>👋 Hi, I'm Abeesh</h1>
 
-<h3>AI & Full-Stack Developer</h3>
+<h3> AI Engineer | Prompt Engineer | Frontend Developer</h3>
 
 <p>
-I’m an AI & Full-Stack Developer who builds modern, scalable, and production-ready digital solutions. I work across frontend development, backend APIs, databases, AI and Machine Learning, and cloud deployment to create complete applications that solve real-world problems. I enjoy turning ideas into reliable, user-friendly products from concept to production. I focus on writing clean, maintainable code and building applications that are easy to scale and improve. I’m continuously learning new technologies and exploring better ways to build intelligent, efficient, and impactful digital solutions.
+I’m an AI Engineer, Prompt Engineer, and Frontend Developer passionate about building intelligent, modern, and user-friendly digital experiences. I work with Artificial Intelligence, Machine Learning, Large Language Models, prompt engineering, and modern frontend technologies to create practical solutions that combine intelligent systems with intuitive user interfaces. I enjoy designing effective prompts, integrating AI models into applications, building responsive and interactive frontend experiences, and transforming ideas into reliable, scalable products. I focus on writing clean, maintainable code and creating applications that are efficient, accessible, and easy to improve. I’m continuously learning emerging AI technologies, experimenting with new tools and models, and exploring innovative ways to build intelligent products that solve real-world problems.
 </p>
-
-<br>
-
-<h2>🛠️ Technologies I Work With</h2>
-
-<p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
