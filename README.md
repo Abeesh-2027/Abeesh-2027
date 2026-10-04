@@ -1,7 +1,7 @@
 <div align="center">
 <h1>👋 Hi, I'm Abeesh</h1>
 
-<h3> AI Engineer | Prompt Engineer | Frontend Developer</h3>
+<h3> AI Engineer | Generative AI | RAG | LLM Applications | Full-Stack AI </h3>
 
 <p>
 I’m an AI Engineer, Prompt Engineer, and Frontend Developer passionate about building intelligent, modern, and user-friendly digital experiences. I work with Artificial Intelligence, Machine Learning, Large Language Models, prompt engineering, and modern frontend technologies to create practical solutions that combine intelligent systems with intuitive user interfaces. I enjoy designing effective prompts, integrating AI models into applications, building responsive and interactive frontend experiences, and transforming ideas into reliable, scalable products. I focus on writing clean, maintainable code and creating applications that are efficient, accessible, and easy to improve. I’m continuously learning emerging AI technologies, experimenting with new tools and models, and exploring innovative ways to build intelligent products that solve real-world problems.
