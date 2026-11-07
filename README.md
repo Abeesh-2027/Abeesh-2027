@@ -39,7 +39,7 @@ My work spans the full stack: data ingestion and retrieval, backend services, an
 - Retrieval quality improvement: reranking, hybrid search, metadata filtering, and evaluation
 
 ### Full-Stack AI Development
-- Backend APIs with FastAPI, Flask, Django, and Node.js
+- Backend APIs with FastAPI,and Node.js
 - Frontends with React, Tailwind CSS, Bootstrap, and Streamlit
 - Containerized deployments with Docker on AWS, Vercel, and Render
 
@@ -135,19 +135,6 @@ User Interface (React / Streamlit)  ->  FastAPI  ->  Retriever  ->  LLM (Groq / 
 - Fine-tuning and efficient open-source models
 
 ---
-
-## GitHub Statistics
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
-</div>
-
----
-
 <div align="center">
 
 ## Contact
