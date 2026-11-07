@@ -1,12 +1,10 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Abeesh</h1>
+# Abeesh
 
-<h3>AI Full-Stack Developer | Generative AI Engineer | RAG Engineer</h3>
+### AI Full-Stack Developer | Generative AI Engineer | RAG Engineer
 
-<p>
-Building intelligent, production-ready AI products, from retrieval pipelines to polished user interfaces.
-</p>
+Building production-ready AI applications, from retrieval pipelines to polished user interfaces.
 
 <a href="https://www.linkedin.com/in/abeesh-p">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -16,35 +14,35 @@ Building intelligent, production-ready AI products, from retrieval pipelines to 
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm an **AI Engineer** who designs and ships end-to-end AI applications. I combine **Large Language Models, embeddings, vector databases, APIs, and modern web frameworks** to build assistants and products that are reliable, scalable, and pleasant to use.
+I am an AI Engineer who designs and ships end-to-end AI applications. I combine Large Language Models, embeddings, vector databases, APIs, and modern web frameworks to build assistants and products that are reliable, scalable, and easy to use.
 
-I work across the full stack: from data ingestion and retrieval to backend APIs and responsive frontends. I care about clean, maintainable code and about turning ideas into AI solutions that solve real problems.
+My work spans the full stack: data ingestion and retrieval, backend services, and responsive frontends. I focus on clean, maintainable code and on turning ideas into AI solutions that address real problems.
 
 ---
 
-## 🎯 What I Do
+## Areas of Expertise
 
-### 🤖 Generative AI Engineer
-- Building LLM-powered applications: chatbots, copilots, summarizers, and AI agents
-- Prompt engineering, structured outputs, and tool/function calling
-- Working with fast inference providers and open models (Groq, OpenAI, Hugging Face)
+### Generative AI Engineering
+- LLM-powered applications: chatbots, copilots, summarizers, and AI agents
+- Prompt engineering, structured outputs, and tool or function calling
+- Fast inference and open models through Groq, OpenAI, and Hugging Face
 
-### 🔎 RAG Engineer
-- Designing end-to-end Retrieval-Augmented Generation pipelines
+### Retrieval-Augmented Generation (RAG)
+- End-to-end RAG pipeline design and implementation
 - Document loading, chunking strategies, and embedding generation
-- Vector search with FAISS, ChromaDB, and similar stores
-- Improving retrieval quality: reranking, hybrid search, metadata filtering, evaluation
+- Vector search with FAISS and ChromaDB
+- Retrieval quality improvement: reranking, hybrid search, metadata filtering, and evaluation
 
-### 🌐 AI Full-Stack Developer
-- Backend APIs with **FastAPI**, Flask, Django, and Node.js
-- Frontends with **React**, Tailwind CSS, Bootstrap, and Streamlit
+### Full-Stack AI Development
+- Backend APIs with FastAPI, Flask, Django, and Node.js
+- Frontends with React, Tailwind CSS, Bootstrap, and Streamlit
 - Containerized deployments with Docker on AWS, Vercel, and Render
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 **Languages**
 
@@ -53,7 +51,7 @@ I work across the full stack: from data ingestion and retrieval to backend APIs 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Generative AI & RAG**
+**Generative AI and RAG**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -76,7 +74,7 @@ I work across the full stack: from data ingestion and retrieval to backend APIs 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Machine Learning & Data**
+**Machine Learning and Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -92,7 +90,7 @@ I work across the full stack: from data ingestion and retrieval to backend APIs 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps & Tools**
+**DevOps and Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -104,29 +102,29 @@ I work across the full stack: from data ingestion and retrieval to backend APIs 
 
 ---
 
-## 🧠 How I Build AI Products
+## System Architecture
 
 ```
-Documents / Data  →  Chunking  →  Embeddings  →  Vector DB (FAISS)
-                                                      ↓
-User (React / Streamlit)  →  FastAPI  →  Retriever  →  LLM (Groq / OpenAI)  →  Grounded Answer
+Documents / Data  ->  Chunking  ->  Embeddings  ->  Vector Database (FAISS)
+                                                            |
+User Interface (React / Streamlit)  ->  FastAPI  ->  Retriever  ->  LLM (Groq / OpenAI)  ->  Grounded Response
 ```
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-<!-- Replace the entries below with your real projects and links -->
+<!-- Replace the entries below with your actual projects and repository links -->
 
-| Project | Description | Stack |
+| Project | Description | Technologies |
 |---|---|---|
-| **[Project Name](https://github.com/YOUR_USERNAME/your-repo)** | RAG-based document Q&A assistant with source citations | Python, FastAPI, FAISS, Groq, React |
-| **[Project Name](https://github.com/YOUR_USERNAME/your-repo)** | LLM-powered AI chatbot with memory and tool calling | Python, LangChain, Streamlit |
-| **[Project Name](https://github.com/YOUR_USERNAME/your-repo)** | Full-stack AI product, from ingestion to deployment | React, FastAPI, PostgreSQL, Docker |
+| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | RAG-based document question answering assistant with source citations | Python, FastAPI, FAISS, Groq, React |
+| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | LLM-powered chatbot with conversation memory and tool calling | Python, LangChain, Streamlit |
+| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | Full-stack AI product covering ingestion, retrieval, and deployment | React, FastAPI, PostgreSQL, Docker |
 
 ---
 
-## 🌱 Currently Exploring
+## Current Focus
 
 - Agentic workflows and multi-agent systems
 - Advanced RAG: hybrid search, reranking, and evaluation
@@ -135,13 +133,13 @@ User (React / Streamlit)  →  FastAPI  →  Retriever  →  LLM (Groq / OpenAI)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
 
 </div>
 
@@ -149,14 +147,12 @@ User (React / Streamlit)  →  FastAPI  →  Retriever  →  LLM (Groq / OpenAI)
 
 <div align="center">
 
-## 📫 Let's Connect
+## Contact
 
-I'm open to opportunities in **Generative AI, RAG, and Full-Stack AI development**.
+Open to opportunities in Generative AI, RAG, and Full-Stack AI development.
 
 <a href="https://www.linkedin.com/in/abeesh-p">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-⭐ *If you like my work, consider giving a star to my repositories!*
 
 </div>
