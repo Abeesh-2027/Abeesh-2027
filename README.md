@@ -121,9 +121,11 @@ User Interface (React / Streamlit)  ->  FastAPI  ->  Retriever  ->  LLM (Groq / 
 
 | Project | Description | Technologies |
 |---|---|---|
-| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | RAG-based document question answering assistant with source citations | Python, FastAPI, FAISS, Groq, React |
-| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | LLM-powered chatbot with conversation memory and tool calling | Python, LangChain, Streamlit |
-| [Project Name](https://github.com/YOUR_USERNAME/your-repo) | Full-stack AI product covering ingestion, retrieval, and deployment | React, FastAPI, PostgreSQL, Docker |
+| Project | Description | Technologies |
+|---|---|---|
+| [Intelligent Conversational Assistant](https://github.com/Abeesh-2027) | AI-powered conversational assistant that understands user queries and provides intelligent, context-aware responses. | Python, React , Fastapi , LLMs |
+| [Specific Domain-Based Fine-Tuned Chatbot](https://github.com/Abeesh-2027) | Domain-specific chatbot fine-tuned to deliver accurate and relevant answers based on specialized knowledge. | Python, LLMs, Fine-Tuning |
+| [RAG-Based Knowledge Retrieval Assistant](https://github.com/Abeesh-2027) | Retrieves the right knowledge from relevant documents before answering, providing accurate responses with source citations. | Python, FastAPI, FAISS, Groq, RAG |
 
 ---
 
