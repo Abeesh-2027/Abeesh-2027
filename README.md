@@ -169,21 +169,6 @@ USER QUERY ---> RETRIEVAL
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abeesh-2027&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abeesh-2027&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Abeesh-2027&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 ## Let's Connect!
 
