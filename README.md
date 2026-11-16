@@ -2,7 +2,7 @@
 
 # Abeesh
 
-### Generative AI Engineer | LLM Engineer | RAG Engineer
+### Generative AI Engineer
 
 Building intelligent AI applications powered by Large Language Models, Retrieval-Augmented Generation, and Agentic AI.
 
