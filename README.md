@@ -24,43 +24,6 @@ My interests include building conversational AI systems, developing advanced RAG
 I focus on developing scalable, reliable, and production-ready Generative AI solutions that solve real-world problems.
 
 ---
-
-## Areas of Expertise
-
-### Generative AI & Large Language Models
-- Building LLM-powered applications and conversational AI systems
-- Prompt engineering and context engineering
-- Structured outputs and function/tool calling
-- Integrating OpenAI, Groq, and Hugging Face models
-- Working with open-source and commercial LLMs
-- LLM inference optimization and API integration
-
-### Retrieval-Augmented Generation (RAG)
-- End-to-end RAG pipeline development
-- Document ingestion, preprocessing, and chunking
-- Embedding generation and semantic search
-- Vector databases: FAISS and ChromaDB
-- Context retrieval and similarity search
-- Advanced RAG: Hybrid search, reranking, and metadata filtering
-- Grounded responses and source citations
-
-### AI Agents & Agentic Systems
-- AI agents and autonomous workflows
-- Tool calling and function execution
-- Multi-step reasoning and task automation
-- Agent orchestration and workflow design
-- Multi-agent systems
-- Building context-aware AI assistants
-
-### LLM Fine-Tuning & Optimization
-- Fine-tuning concepts and methodologies
-- Working with Hugging Face Transformers
-- Model evaluation and performance optimization
-- Efficient inference and model selection
-- Experimenting with open-source language models
-
----
-
 ## Technical Skills
 
 **Programming Languages**
@@ -106,66 +69,6 @@ I focus on developing scalable, reliable, and production-ready Generative AI sol
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Generative AI Architecture
-
-```text
-             DOCUMENTS / DATA
-                    |
-                    v
-           Document Processing
-                    |
-                    v
-             Text Chunking
-                    |
-                    v
-             Embeddings
-                    |
-                    v
-          Vector Database
-             (FAISS)
-                    |
-                    v
-USER QUERY ---> RETRIEVAL
-                    |
-                    v
-             Context Building
-                    |
-                    v
-              LLM ENGINE
-          (Groq / OpenAI)
-                    |
-                    v
-          GROUNDED RESPONSE
-                    |
-                    v
-             AI APPLICATION
-```
-
----
-
-## Featured Generative AI Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| Intelligent AI Conversational Assistant | An LLM-powered assistant delivering intelligent, context-aware responses to user queries. | Python, LangChain, LLMs |
-| Domain-Specific AI Chatbot | A specialized chatbot designed to provide relevant answers using domain-specific knowledge. | Python, LLMs, Fine-Tuning |
-| RAG-Based Knowledge Assistant | A document-based AI assistant that retrieves relevant information and generates grounded responses with source citations. | Python, FastAPI, FAISS, Groq |
-| AI-Powered Document Assistant | An AI application that processes documents and enables natural-language question answering. | Python, Embeddings, Vector DB |
-
----
-
-## Current Focus
-
-- Advanced Retrieval-Augmented Generation (Advanced RAG)
-- Agentic AI and autonomous AI workflows
-- Multi-agent architectures and orchestration
-- LLM fine-tuning and open-source models
-- LLM evaluation and observability
-- Prompt optimization and context engineering
-- Production deployment of Generative AI applications
 
 ---
 
