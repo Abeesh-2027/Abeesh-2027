@@ -6,9 +6,6 @@
 
 Building intelligent AI applications powered by Large Language Models, Retrieval-Augmented Generation, and Agentic AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeesh-p)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeesh2027@gmail.com)
-
 </div>
 
 ---
